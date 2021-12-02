@@ -1,2 +1,2 @@
 # new_class
-git commands
+## this is a test project for class
